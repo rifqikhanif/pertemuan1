@@ -1,0 +1,11 @@
+#judul1{
+    size: 1000px;
+    font-style: inherit;
+    color: crimson;
+    background-color: rgb(255, 255, 255);}
+#judul2{
+    size: 1000px;
+    font-style: initial;
+    color: antiquewhite;
+    background-color: rgb(8, 75, 141);   
+}
